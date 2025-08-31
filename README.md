@@ -8,7 +8,7 @@ The system operates on a transparent, tamper-proof blockchain infrastructure whe
 
 ## Project Vision
 
-Our vision is to transform the educational landscape by:
+Our vision is to transform the educational landscape by : 
 
 - **Eliminating Traditional Attendance Issues**: Removing manual errors, disputes, and fraudulent attendance marking through blockchain transparency
 - **Incentivizing Student Engagement**: Creating a token-based economy that rewards consistent participation and academic commitment
